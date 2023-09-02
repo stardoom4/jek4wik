@@ -1,7 +1,7 @@
 ---
+layout: wiki
 title: Unraveling the Vedas, A Journey into Ancient Indian Wisdom
 tags: religion
-status: ongoing
 tags: hinduism
 ---
 # Unraveling the Vedas: A Journey into Ancient Indian Wisdom
