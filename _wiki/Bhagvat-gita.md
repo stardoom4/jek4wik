@@ -1,7 +1,7 @@
 ---
+layout: wiki
 title: Bhagavad Gita, The Timeless Wisdom for Life's Journey
 tags: religion
-status: ongoing
 tags: hinduism
 ---
 # Bhagavad Gita, The Timeless Wisdom for Life's Journey
