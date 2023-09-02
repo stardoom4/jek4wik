@@ -1,5 +1,5 @@
 ---
-
+layout: wiki
 title: Before Mahabharat
 tags: hinduism
 ---
