@@ -1,4 +1,5 @@
 ---
+layout: wiki
 title: List of Purana 
 tags: SanatanDharm 
 ---
